@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FFD700</color>
+
+    <color name="colorLogin.Accent">#FFD700</color>
+    <color name="colorLogin.Background">#000080</color>
+    <color name="colorLogin.txtBotaoEntrar">#000000</color>
+    <color name="colorLogin.txtCadastrar">#FFD700</color>
+
+    <color name="colorCadastro.Accent">#FFD700</color>
+    <color name="colorCadastro.Background">#000080</color>
+    <color name="colorCadastro.txtCadastro">#FFD700</color>
+    <color name="colorCadastro.botaoCadastrar">#FFD700</color>
+    <color name="colorCadastro.txtBotaoCadastrar">#000000</color>
+
+    <color name="colorStatus.Accent">#FFD700</color>
+    <color name="colorStatus.Background">#000080</color>
+
+    <color name="colorToolbar.Accent">#FFD700</color>
+    <color name="colorToolbar.Background">#000080</color>
+</resources>

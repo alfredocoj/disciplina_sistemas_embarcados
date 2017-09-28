@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FFD700</color>
+
+    <!--#######################CATEGORIA: Activities#######################-->
+    <!--Cores da activity Login-->
+    <color name="colorLogin.Background">#000080</color>
+    <color name="colorLogin.Accent">#FFD700</color>
+    <color name="colorLogin.txtBotaoEntrar">#000000</color>
+    <color name="colorLogin.txtCadastrar">#FFD700</color>
+
+    <!--Cores da activity Cadastro-->
+    <color name="colorCadastro.Background">#000080</color>
+    <color name="colorCadastro.Accent">#FFD700</color>
+    <color name="colorCadastro.txtCadastro">#FFD700</color>
+    <color name="colorCadastro.botaoCadastrar">#FFD700</color>
+    <color name="colorCadastro.txtBotaoCadastrar">#000000</color>
+
+    <!--Cores da activity Main-->
+    <color name="colorMain.Background">#000080</color>
+    <color name="colorMain.Accent">#FFD700</color>
+
+    <!--#######################CATEGORIA: Frames#######################-->
+    <!--Cores do Frame Status-->
+    <color name="colorStatus.Background">#000080</color>
+    <color name="colorStatus.Accent">#FFD700</color>
+
+    <!--Cores do Frame Ar Condicionados-->
+    <color name="colorAC.Background">#000080</color>
+    <color name="colorAC.Accent">#FFD700</color>
+
+
+    <!--Cores do Frame Lampadas-->
+    <color name="colorLampada.Background">#000080</color>
+    <color name="colorLampada.Accent">#FFD700</color>
+
+
+    <!--Cores do Frame Portao-->
+    <color name="colorPortao.Background">#000080</color>
+    <color name="colorPortao.Accent">#FFD700</color>
+
+
+    <!--#######################CATEGORIA: Widgets#######################-->
+    <!--Cores da Toolbar-->
+    <color name="colorToolbar.Background">#000080</color>
+    <color name="colorToolbar.Accent">#FFD700</color>
+
+    <!--Cores da BottomNavigationView-->
+    <color name="colorBarra.Background">#000080</color>
+    <color name="colorBarra.Accent">#ffdb18</color>
+
+    <!--Cores do Widget Item-->
+    <color name="colorItem.Background">#000080</color>
+    <color name="colorItem.Accent">#ffdb18</color>
+    <color name="colorSwitch.Active">#FFD700</color>
+    <color name="colorSwitch.Thumb">#ffffff</color>
+    <color name="colorSwitch.Foreground">#00afaa</color>
+</resources>

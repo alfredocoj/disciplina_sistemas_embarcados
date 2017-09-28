@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="15dp"
+    android:background="@color/colorItem.Background">
+
+        <TextView
+            android:id="@+id/txt_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:fontFamily="serif-monospace"
+            android:text="Texto"
+            android:textColor="@color/colorItem.Accent"
+            android:textAlignment="gravity"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textStyle="bold"
+            android:textSize="20dp" />
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/switch_item"
+            android:theme="@style/MySwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:checked="false"
+            android:showText="true"
+            android:splitTrack="false"
+            android:switchMinWidth="25dp"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Medium"
+            tools:checked="false" />
+
+</RelativeLayout>

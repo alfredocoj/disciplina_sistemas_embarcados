@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "135347707013",
+    "firebase_url": "https://hihome-480e9.firebaseio.com",
+    "project_id": "hihome-480e9",
+    "storage_bucket": "hihome-480e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135347707013:android:dfe1fba7268d3f17",
+        "android_client_info": {
+          "package_name": "com.example.ayrton.hihome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135347707013-otmr4tdsh0t7v0ogtu4rphrt4kfdjtsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbWMIDYoXORUygvJoTrdgWTxbxLkoUMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
